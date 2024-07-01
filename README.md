@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=shshaank&color=ff0000) <br>
+![](https://komarev.com/ghpvc/?username=shshaank&color=ff0000&style=for-the-badge) <br>
 **Hello there, I'm Shashank** <br>
 • I'm familiar with Python | Django | Numpy | Pandas | HTML | CSS | MySQL <br>
 • Learning React | Data Analytics <br>
