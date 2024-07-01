@@ -2,7 +2,7 @@
 **Hello there, I'm Shashank** <br>
 • I'm familiar with Python | Django | Numpy | Pandas | HTML | CSS | MySQL <br>
 • Learning React | Data Analytics <br>
-• Mail me @contactshashank@gmail.com <br>
+• Mail me @contactshashank.n@gmail.com <br>
 • Have a look at my resume https://drive.google.com/file/d/1BhCf3C3qyxRW6_KYqUxxh9H_68GhN98D/view <br>
 • Here is my LinkedIn handle https://www.linkedin.com/in/shashank-n-451040253/ <br>
 
